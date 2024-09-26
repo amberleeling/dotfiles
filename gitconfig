@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = amber36588888@gmail.com
+	name = linglee
